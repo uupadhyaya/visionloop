@@ -20,7 +20,7 @@ VisionLoop opens with sight and closes with a vision that redeems and expands th
 - **`visionloop-working-model.html`** — interactive diagram. Click through the six steps; toggle between the plain framework and three applied examples (YTL, Telvox, SnapLink).
 - **`VisionLoop-Public-Article.md`** — the publishable article for LinkedIn, Medium, or Substack. Explains the framework in depth but deliberately withholds the worksheet's prompts, prompt bank, and full worked examples.
 - **`VisionLoop-Offer-Suite.pdf`** — six-page external one-pager, one page per tier plus a framework overview, for sending to prospects directly.
-- **`VisionLoop-Worksheet.pdf`** — the actual $49 product. Six-step worksheet, paradox-line prompt bank, one worked example (StarScout).
+- **`VisionLoop-Worksheet.pdf`** — the actual $49 product. Six-step worksheet, paradox-line prompt bank, two example (StarScout and YTL).
 - **`visionloop-cover-600x600.jpg`**, **`visionloop-product-cover-1280x720.jpg`**, **`visionloop-avatar-400x400.png`** — Gumroad thumbnail, product-page cover, and profile avatar.
 
 ### Internal only — never publish these
@@ -34,9 +34,8 @@ VisionLoop opens with sight and closes with a vision that redeems and expands th
 
 1. **Gumroad**: connect a payment method, publish the $49 worksheet, get the live product link.
 2. **Contact form**: `visionloop.html`'s form posts through FormSubmit to `namaskar@visionloop.co`. That address must exist (domain email forwarding or a provider like Zoho Mail), and the first-ever submission triggers a one-time FormSubmit activation email that must be clicked before forwarding works.
-3. **Hosting**: upload `visionloop.html` and `visionloop-working-model.html` to the same server folder (e.g. the Hetzner box hosting InsightGoals.com) so internal links resolve.
-4. **Tier 2 access gate**: decide between trust-based delivery (send the builder link manually after payment) or building a real access-code check into `visionloop-builder.html`.
-5. **Domain**: `visionloop.co` is referenced across the materials as the working domain; register it or swap in the real one.
+3. **Tier 2 access gate**: decide between trust-based delivery (send the builder link manually after payment) or building a real access-code check into `visionloop-builder.html`.
+4. **Domain**: `visionloop.co` is referenced across the materials as the working domain; register it or swap in the real one.
 
 ## Brand
 
