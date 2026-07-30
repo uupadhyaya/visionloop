@@ -1,5 +1,4 @@
 # Visionloop
-# VisionLoop
 
 A six-step circular narrative framework for storytellers, sold across three tiers: a self-guided worksheet, an AI-guided builder, and a done-for-you engagement.
 
